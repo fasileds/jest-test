@@ -7,7 +7,7 @@ This is the test suite for the `calcBillingPeriods` function.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/calcBillingPeriods.git
+   git clone (https://github.com/fasileds/jest-test.git)
    cd calcBillingPeriods
    ```
 
